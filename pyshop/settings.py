@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'f16!z$&6*-i$z4$6nzsjvlvio*u9vf0-i5w$f4sx&qlu5yuzcm'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False #True
+DEBUG = False
 
 ALLOWED_HOSTS = ["dev.tricksvibe.tk", "localhost"]
 
